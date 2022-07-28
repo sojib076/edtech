@@ -1,3 +1,5 @@
+
+
 .reg-height{
     height: 200px;
     background-color: #289BDE;
@@ -10,9 +12,10 @@
   .carousel-item img {
       position: absolute;
       object-fit: cover;
-      
+      filter: brightness(50%);
       min-height: 500px;
   }
+  
   .left{
     margin-left: 20px;
   }
