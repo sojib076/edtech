@@ -3,7 +3,7 @@
     background-color: #289BDE;
 }
 .carousel-item {
-    height: 500px;
+    height: 80vh;
     
   }
   
@@ -12,4 +12,7 @@
       object-fit: cover;
       
       min-height: 500px;
+  }
+  .left{
+    margin-left: 20px;
   }
