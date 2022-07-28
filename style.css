@@ -1,0 +1,15 @@
+.reg-height{
+    height: 200px;
+    background-color: #289BDE;
+}
+.carousel-item {
+    height: 500px;
+    
+  }
+  
+  .carousel-item img {
+      position: absolute;
+      object-fit: cover;
+      
+      min-height: 500px;
+  }
